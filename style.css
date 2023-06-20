@@ -1,0 +1,68 @@
+body {
+  margin: auto;
+  text-align: center;
+}
+
+img {
+  width: 50px;
+}
+
+#robot {
+  margin: 0 auto;
+  position: relative;
+}
+
+#face {
+  width: 400px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#crown {
+  position: absolute;
+  top: 0;
+  left: 50px;
+  width: 300px;
+}
+
+#eyes3 {
+  position: absolute;
+  top: 160px;
+  left: 100px;
+  width: 250px;
+}
+
+#nose2 {
+  position: absolute;
+  top: 195px;
+  left: 150px;
+  width: 150px;
+}
+
+#mouth3 {
+  position: absolute;
+  top: 335px;
+  left: 150px;
+  width: 150px;
+}
+
+#moustache {
+  position: absolute;
+  top: 245px;
+  left: 100px;
+  width: 250px;
+}
+
+#necklace {
+  position: absolute;
+  top: 350px;
+  left: 65px;
+  width: 270px;
+}
+
+#hide {
+  display: none;
+}
+
+
